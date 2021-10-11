@@ -34,18 +34,18 @@ p{
   width: 100%;
 }
 .gototop{
-  width: 70px;
-  height: 70px;
-  background-color: rgb(199, 198, 198);
+  width: 100px;
+  height: 100px;
+  background-color: rgb(119, 118, 118);
   border-radius: 5px;
   position: fixed;
   bottom: 80px;
   right: 100px;
 }
 .gototop i{
-  font-size: 45px;
+  font-size: 70px;
   font-weight: normal;
-  line-height: 70px;
+  line-height: 100px;
   color: #fff;
   cursor: pointer;
 }
