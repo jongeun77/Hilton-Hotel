@@ -1,17 +1,44 @@
+@media (max-width:780px){
+  .content{
+    width: 100%;
+    padding: 50px 20px;
+  }
+   .line {
+     width: 100%;
+     padding: 15px;
+   }
+   .gototop{
+     width: 60px;
+     height: 60px;
+     right: 40px;
+     bottom: 40px;
+   }
+   .gototop i{
+     font-size: 40px;
+     line-height: 60px;
+   }
+   h1{
+     font-size: 50px;
+   }
+   h2{
+     font-size: 30px;
+   }
+ }
 
-
-@media(max-width:480px){
+@media (max-width:480px){
   
   .content{
     padding: 0;
     margin: 0;
+    width: 100%;
   }
   .content img{
-    width: 80%;
+    width: 100%;
   }
   .line{
-    padding: 18px;
-    width: 80%;
+    padding: 10px;
+    width: 100%;
+    background-color: #fff;
   }
   h1{
     font-size: 34px;
@@ -19,6 +46,7 @@
   }
   .content h2{
     margin: 0;
+    font-size: 26px;
   }
   p{
     font-size: 18px;
@@ -38,3 +66,5 @@
     line-height: 40px;
   }
   }
+
+  
